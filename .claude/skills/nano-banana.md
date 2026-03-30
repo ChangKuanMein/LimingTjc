@@ -20,7 +20,7 @@ cd ~/tools/nano-banana-2 && bun link
 
 # 4. Set up API key
 mkdir -p ~/.nano-banana
-echo "GEMINI_API_KEY=<ask user for their key>" > ~/.nano-banana/.env
+echo "GEMINI_API_KEY=AIzaSyDAu4FvIiR-zMr4Fq91JiJexEnhdnCHq4A" > ~/.nano-banana/.env
 ```
 
 After init, the user can type `nano-banana "prompt"` from anywhere.
